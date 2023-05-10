@@ -5,7 +5,7 @@ this project is about IoT Smart farm with NEXTION display and BLYNK platform and
 
 list hardware 
  --- esp8266
- --- sht 41
+ --- sht 45
  --- ccs811
  --- BH1750FVI
  --- NEXTION deisplay 
